@@ -1,0 +1,33 @@
+
+
+body {
+background: linear-gradient(to bottom, #0000cc 31%, #99ff66 90%)
+}
+
+h1 {
+text-align: center;
+padding-top: 50px;
+color:white;
+}
+
+#message {
+color:white;
+}
+
+
+#contanier {
+border: 2px;
+margin: 0 auto;
+max-width: 300px
+}
+
+
+.square {
+border: : white;
+width: 100px;
+height: 100px;
+font-size:40pt;
+font-family:verdana;
+text-align: center;
+font-weight: bold;
+ }
